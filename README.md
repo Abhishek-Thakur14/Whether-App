@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Weather App
+
+Description: The Weather App is a modern and interactive web application built with ReactJS that provides real-time weather updates for any location around the globe. This project demonstrates my proficiency in ReactJS and my ability to integrate and consume external APIs effectively.
+
+Key Features:
+
+    Real-Time Weather Data: Fetches current weather information, including temperature, humidity, and weather conditions, using the OpenWeatherMap API.
+    Search Functionality: Allows users to search for weather data by city name or geographical coordinates.
+    Responsive Design: Designed to be fully responsive and user-friendly across various devices and screen sizes.
+    Dynamic Updates: Automatically updates weather information based on user input or location changes.
+    Error Handling: Includes error handling for invalid searches and API connectivity issues.
+
+Technologies Used:
+
+    ReactJS: Utilized for building the user interface and managing application state.
+    Axios: Used for making API requests and handling responses.
+    CSS3/SCSS: Applied for styling the application and ensuring a polished, professional look.
+    OpenWeatherMap API: Provides weather data for the application, allowing real-time and accurate weather information.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,32 +58,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore the code, contribute, or reach out with questions and feedback to thecode.abhi@gmail.com.
